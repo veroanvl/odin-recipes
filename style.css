@@ -13,13 +13,24 @@ h1 {
 }
 
 #welcome {
+    width: 360px;
     font-weight: bold;
     text-align: center;
     font-size: 25px;
     font-style: italic;
+    padding: 10px;
+    border: 4px dashed #EEC759;
+    margin: 0 auto;
 }
 
-.list.recipes {
+.list {
+    width: 230px;
+    padding: 10px 6px;
+    border: 4px double #EEC759;
+}
+
+
+.recipes {
     font-family: 'Courier New', Courier, monospace;
 }
 
