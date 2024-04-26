@@ -3,6 +3,7 @@ body {
     font-family: Tahoma, Verdana, sans-serif;
     color: #EEE7DA;
     font-size: larger;
+    margin: 20px;
 }
 
 h1 {
@@ -12,13 +13,57 @@ h1 {
     font-size: 60px;
 }
 
-.center {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 40px;
 }
 
 .subheader {
     color: #EEC759;
     font-style: italic;
+    margin: 6px;
+}
+
+.subheader.cochinita-pibil {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 26px;
+    text-align: center;
+    margin-top: 6px;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.ingredients {
+    width: 520px;
+    border: 3px solid #EEC759;
+    padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+.steps {
+    margin-top: 40px;
+}
+
+.step-one {
+    margin: 6px;
+}
+
+.step-two {
+    margin: 6px;
+}
+
+.step-three {
+    margin: 6px;
+}
+
+.step-four {
+    margin: 6px;
+    margin-bottom: 40px;
 }
