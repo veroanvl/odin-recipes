@@ -26,22 +26,28 @@ img {
     margin: 6px;
 }
 
-.subheader.description,
-.description {
+.subheader.aguachile {
     text-align: center;
-    font-size:35px;
+    font-size: 35px;
 }
 
 .description {
     font-size: 26px;
+    text-align: center;
     margin-top: 6px;
     font-style: italic;
+    margin-bottom: 40px;
 }
 
 .ingredients {
     width: 520px;
     border: 3px solid #EEC759;
     padding-bottom: 20px;
+    margin: 0 auto;
+}
+
+.steps {
+    margin-top: 40px;
 }
 
 .step-one {
